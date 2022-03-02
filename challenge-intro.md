@@ -11,5 +11,5 @@
 - !INSTRUCTIONS[][documentation]
 - [Title Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Title.png "Guidance on creating great titles")
 - [Overview Guidance](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Challenge%20Labs%20Overview%20Section.png "How to write a great overview")
-- [Script Gallery](https://lodmanuals.blob.core.windows.net/lms/CLabsInstTemplate/Challenge%20Labs%20Overview%20Section.png "Use pre-built Lifecycle Actions and Automated Activities")
+- [Script Gallery](https://labondemand.com/LabProfile/Instructions/114499 "Use pre-built Lifecycle Actions and Automated Activities")
 :::
